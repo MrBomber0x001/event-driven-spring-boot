@@ -2,6 +2,8 @@
 
 This project demonstrates an implementation of event-driven architecture in a Spring Boot application, featuring robust event publishing, processing, and retry mechanisms.
 
+![image](https://github.com/user-attachments/assets/5d0e9b51-41d6-42db-98da-26955de21f11)
+
 ## Overview
 
 The system provides a reliable way to process events asynchronously with built-in failure handling and automatic retries. Events are persisted in a database before processing, ensuring that no events are lost even if the application crashes.
